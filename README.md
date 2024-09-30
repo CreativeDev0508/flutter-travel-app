@@ -11,8 +11,8 @@ This project is not completed yet, as soon as possible when it's complete I will
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### Don't forget to ⭐ the repo
-![GitHub stars](https://img.shields.io/github/stars/ivansaul/flutter_travel_news_app?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ivansaul/flutter_travel_news_app?style=social) 
+![GitHub stars](https://img.shields.io/github/stars/CreativeDev0508/flutter-travel-app?style=social)
+![GitHub forks](https://img.shields.io/github/forks/CreativeDev0508/flutter-travel-app?style=social) 
 
 ## Features
 
@@ -32,7 +32,7 @@ Check it yourself :)
 
 ## Demo
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ivansaul/demos/master/flutter/travel_news_app_demo.gif" alt="Demo">
+  <img src="https://raw.githubusercontent.com/CreativeDev0508/demos/master/flutter/travel_news_app_demo.gif" alt="Demo">
 </p>
 
 ## Packages we are using:
@@ -53,7 +53,7 @@ Package | Usage
 2. Fetch latest source code from master branch.
 
 ```
-git clone https://github.com/ivansaul/flutter_travel_news_app.git
+git clone https://github.com/CreativeDev0508/flutter-travel-app.git
 ```
 
 3. Run the app with Android Studio or VS Code. Or the command line:
